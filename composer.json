@@ -1,0 +1,24 @@
+{
+    "name": "ftec-faculdades/dti-admin",
+    "description": "Módulo administrativo em ZF 2 da Ftec | DTI",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+		"dti",
+		"admin"	
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTIAdmin",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTIAdmin": "src/"
+        }
+	}
+}
